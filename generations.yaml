@@ -1,0 +1,25 @@
+generations:
+  - name: "First Generation"
+    start_year: 1994
+    end_year: 1999
+    description: "The original Hyundai Accent was introduced as a replacement for the Excel in many markets, representing a significant improvement in quality and design. Available as a three-door hatchback or four-door sedan, it featured simple, conventional styling typical of subcompact cars of the era. Powered by a range of small four-cylinder engines, typically 1.3L to 1.5L depending on the market, with modest power outputs focused on economy rather than performance. The interior was basic but functional, with durability prioritized over luxury. This generation established the Accent as Hyundai's entry-level model globally, offering affordable transportation with improved reliability compared to its predecessor."
+
+  - name: "Second Generation"
+    start_year: 1999
+    end_year: 2005
+    description: "The second-generation Accent featured more refined styling with a more aerodynamic profile. Available in three-door hatchback, four-door sedan, and in some markets, a five-door hatchback, it offered slightly increased dimensions for improved interior space. Engine options typically included 1.3L to 1.6L four-cylinders with improved efficiency and slightly better performance. The interior saw enhancements in design, materials, and available features, though still positioned as an economy car. Safety features began to receive more attention with the availability of dual front airbags in many markets. This generation continued to build Hyundai's reputation for offering good value in the subcompact segment."
+
+  - name: "Third Generation"
+    start_year: 2005
+    end_year: 2011
+    description: "The third-generation Accent featured more expressive styling with Hyundai's emerging design language. Available in three-door hatchback and four-door sedan body styles, it grew in size to provide more interior space. Engine options evolved to include more efficient and powerful units, typically ranging from 1.4L to 1.6L four-cylinders, with improved transmissions including a five-speed manual and four-speed automatic. The interior received significant improvements in design, material quality, and available features, including upgraded audio systems and available power accessories. Safety features expanded to include standard front and optional side airbags, antilock brakes, and improved crash structures. This generation reflected Hyundai's overall push upmarket, offering more refinement and features while maintaining competitive pricing."
+
+  - name: "Fourth Generation"
+    start_year: 2011
+    end_year: 2017
+    description: "The fourth-generation Accent adopted Hyundai's 'Fluidic Sculpture' design language, featuring more sophisticated styling with flowing lines and a distinctive hexagonal grille. In many markets, it was available in both sedan and five-door hatchback configurations. Powered primarily by improved 1.4L and 1.6L four-cylinder engines with Direct Injection in some variants, it offered a good balance of performance and efficiency. The interior saw substantial improvements in design, materials, and technology, offering features previously found only in larger vehicles. Safety technology advanced with six standard airbags, available stability control, and improved crash structures. This generation significantly elevated the Accent's position, offering near-compact levels of space and refinement in a subcompact package."
+
+  - name: "Fifth Generation"
+    start_year: 2017
+    end_year: 2023
+    description: "The fifth-generation Accent featured more restrained styling following Hyundai's evolved design language, with a focus on elegant simplicity over the dramatic lines of its predecessor. In many markets, it was only offered as a sedan, with the hatchback role taken by the Venue crossover or i20 depending on the region. Powered by efficient 1.6L four-cylinder engines, in some markets featuring the Gamma II MPI or GDI technology, it emphasized fuel economy while maintaining adequate performance. The interior offered improved materials, design, and technology, including an available 7-inch touchscreen with Apple CarPlay and Android Auto compatibility. Safety features expanded to include available forward collision warning, automatic emergency braking, and other driver assistance technologies previously uncommon in the subcompact segment. This generation maintained the Accent's value proposition while adding technology and refinement, though it was discontinued in North America after 2023 as Hyundai, like many manufacturers, shifted focus away from sedans toward crossovers in that market."
