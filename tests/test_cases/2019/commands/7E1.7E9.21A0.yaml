@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.21A0
 test_cases:
-- response: |-
+- expected_values:
+    HYUNDAI_ATF_T: 79
+    HYUNDAI_VSS_V3: 0
+  response: |-
     7E9102B61A0FFFF0A00
     7E9210A38000900082C
     7E92200007710700970
@@ -8,10 +11,10 @@ test_cases:
     7E924C0FF0000000000
     7E92500000000ED0000
     7E9260420AAAAAAAAAA
-  expected_values:
-    HYUNDAI_ATF_T: 79
+- expected_values:
+    HYUNDAI_ATF_T: 76
     HYUNDAI_VSS_V3: 0
-- response: |-
+  response: |-
     7E9102B61A0FFFF0A00
     7E9210A3C0008000828
     7E92200007410820970
@@ -19,10 +22,10 @@ test_cases:
     7E924C0FF0000000000
     7E92500000000E50000
     7E926041CAAAAAAAAAA
-  expected_values:
-    HYUNDAI_ATF_T: 76
+- expected_values:
+    HYUNDAI_ATF_T: 82
     HYUNDAI_VSS_V3: 0
-- response: |-
+  response: |-
     7E9102B61A0FFFF0A00
     7E9210A44000900083C
     7E92200007A106F0968
@@ -30,10 +33,10 @@ test_cases:
     7E924C0FF0000000000
     7E92500000000ED0000
     7E9260424AAAAAAAAAA
-  expected_values:
-    HYUNDAI_ATF_T: 82
+- expected_values:
+    HYUNDAI_ATF_T: 81
     HYUNDAI_VSS_V3: 0
-- response: |-
+  response: |-
     7E9102B61A0FFFF0A00
     7E9210A68000900083C
     7E922000079106D0988
@@ -41,10 +44,10 @@ test_cases:
     7E924C0FF0000000000
     7E92500000000EF0000
     7E9260428AAAAAAAAAA
-  expected_values:
-    HYUNDAI_ATF_T: 81
+- expected_values:
+    HYUNDAI_ATF_T: 75
     HYUNDAI_VSS_V3: 0
-- response: |-
+  response: |-
     7E9102B61A0FFFF0A00
     7E9210C1000090009E8
     7E9220000731098095C
@@ -52,10 +55,10 @@ test_cases:
     7E924C0FF0000000000
     7E92500000000EE0000
     7E92604F4AAAAAAAAAA
-  expected_values:
-    HYUNDAI_ATF_T: 75
+- expected_values:
+    HYUNDAI_ATF_T: 82
     HYUNDAI_VSS_V3: 0
-- response: |-
+  response: |-
     7E9102B61A0FFFF0A00
     7E9210C10000A0009F4
     7E92200007A1085095C
@@ -63,10 +66,10 @@ test_cases:
     7E924C0FF0000000000
     7E92500000000F20000
     7E92604FCAAAAAAAAAA
-  expected_values:
-    HYUNDAI_ATF_T: 82
+- expected_values:
+    HYUNDAI_ATF_T: 74
     HYUNDAI_VSS_V3: 0
-- response: |-
+  response: |-
     7E9102B61A0FFFF0A00
     7E9210C2800090009E8
     7E9220000721091097C
@@ -74,10 +77,10 @@ test_cases:
     7E924C0FF0000000000
     7E92500000000E90000
     7E92604F8AAAAAAAAAA
-  expected_values:
-    HYUNDAI_ATF_T: 74
+- expected_values:
+    HYUNDAI_ATF_T: 78
     HYUNDAI_VSS_V3: 0
-- response: |-
+  response: |-
     7E9102B61A0FFFF0A00
     7E9210C280009000A00
     7E92200007610980970
@@ -85,10 +88,10 @@ test_cases:
     7E924C0FF0000000000
     7E92500000000F40000
     7E9260500AAAAAAAAAA
-  expected_values:
-    HYUNDAI_ATF_T: 78
+- expected_values:
+    HYUNDAI_ATF_T: 82
     HYUNDAI_VSS_V3: 0
-- response: |-
+  response: |-
     7E9102B61A0FFFF0A00
     7E9210C2C000A000A10
     7E92200007A108F0954
@@ -96,10 +99,10 @@ test_cases:
     7E924C0FF0000000000
     7E92500000000F20000
     7E9260508AAAAAAAAAA
-  expected_values:
-    HYUNDAI_ATF_T: 82
+- expected_values:
+    HYUNDAI_ATF_T: 78
     HYUNDAI_VSS_V3: 0
-- response: |-
+  response: |-
     7E9102B61A0FFFF0A00
     7E9210C30000A0009F0
     7E922000076108D0980
@@ -107,10 +110,10 @@ test_cases:
     7E924C0FF0000000000
     7E92500000000F00000
     7E92604F8AAAAAAAAAA
-  expected_values:
-    HYUNDAI_ATF_T: 78
+- expected_values:
+    HYUNDAI_ATF_T: 79
     HYUNDAI_VSS_V3: 0
-- response: |-
+  response: |-
     7E9102B61A0FFFF0A00
     7E9210C400009000A04
     7E922000077108D0974
@@ -118,10 +121,10 @@ test_cases:
     7E924C0FF0000000000
     7E92500000000E90000
     7E9260508AAAAAAAAAA
-  expected_values:
-    HYUNDAI_ATF_T: 79
+- expected_values:
+    HYUNDAI_ATF_T: 75
     HYUNDAI_VSS_V3: 0
-- response: |-
+  response: |-
     7E9102B61A0FFFF0A00
     7E9210C440009000A10
     7E922000073109A097C
@@ -129,10 +132,10 @@ test_cases:
     7E924C0FF0000000000
     7E92500000000F80000
     7E9260504AAAAAAAAAA
-  expected_values:
+- expected_values:
     HYUNDAI_ATF_T: 75
     HYUNDAI_VSS_V3: 0
-- response: |-
+  response: |-
     7E9102B61A0FFFF0A00
     7E9210C4800090009FC
     7E9220000731086098C
@@ -140,6 +143,3 @@ test_cases:
     7E924C0FF0000000000
     7E92500000000EF0000
     7E9260504AAAAAAAAAA
-  expected_values:
-    HYUNDAI_ATF_T: 75
-    HYUNDAI_VSS_V3: 0
