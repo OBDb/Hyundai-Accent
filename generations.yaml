@@ -1,25 +1,33 @@
+references:
+  - "https://en.wikipedia.org/wiki/Hyundai_Accent"
+
 generations:
-  - name: "First Generation"
+  - name: "First Generation (X3)"
     start_year: 1994
     end_year: 1999
-    description: "The original Hyundai Accent was introduced as a replacement for the Excel in many markets, representing a significant improvement in quality and design. Available as a three-door hatchback or four-door sedan, it featured simple, conventional styling typical of subcompact cars of the era. Powered by a range of small four-cylinder engines, typically 1.3L to 1.5L depending on the market, with modest power outputs focused on economy rather than performance. The interior was basic but functional, with durability prioritized over luxury. This generation established the Accent as Hyundai's entry-level model globally, offering affordable transportation with improved reliability compared to its predecessor."
+    description: "The original Hyundai Accent (X3) was introduced as a replacement for the Excel in 1994. Known as Hyundai Excel or Verna in various markets, it was available as a four-door sedan and three/five-door liftback. Powered by 1.3L to 1.6L Alpha four-cylinder engines, it featured a 2400mm wheelbase and simple styling typical of subcompact cars. The first generation proved popular in Australia, becoming the third best-selling vehicle there in 1996 and 1998. A facelift arrived in April 1997 with updated trim and improved engine options including the DOHC G4FK version."
 
-  - name: "Second Generation"
+  - name: "Second Generation (LC)"
     start_year: 1999
     end_year: 2005
-    description: "The second-generation Accent featured more refined styling with a more aerodynamic profile. Available in three-door hatchback, four-door sedan, and in some markets, a five-door hatchback, it offered slightly increased dimensions for improved interior space. Engine options typically included 1.3L to 1.6L four-cylinders with improved efficiency and slightly better performance. The interior saw enhancements in design, materials, and available features, though still positioned as an economy car. Safety features began to receive more attention with the availability of dual front airbags in many markets. This generation continued to build Hyundai's reputation for offering good value in the subcompact segment."
+    description: "The second-generation Accent (LC) featured a more angular body on the Hyundai-Kia TB platform with increased dimensions (2440mm wheelbase). Available in sedan and liftback body styles, it introduced a 1.6L DOHC engine to replace the 1.5L in some markets from 2001, and was Hyundai's first Accent with a diesel option (1.5L CRDi three-cylinder). Trim levels included GSi, CDX and MVi with various designations across markets. A minor facelift in 2003 introduced the LC2 code, updating styling and features."
 
-  - name: "Third Generation"
+  - name: "Third Generation (MC)"
     start_year: 2005
-    end_year: 2011
-    description: "The third-generation Accent featured more expressive styling with Hyundai's emerging design language. Available in three-door hatchback and four-door sedan body styles, it grew in size to provide more interior space. Engine options evolved to include more efficient and powerful units, typically ranging from 1.4L to 1.6L four-cylinders, with improved transmissions including a five-speed manual and four-speed automatic. The interior received significant improvements in design, material quality, and available features, including upgraded audio systems and available power accessories. Safety features expanded to include standard front and optional side airbags, antilock brakes, and improved crash structures. This generation reflected Hyundai's overall push upmarket, offering more refinement and features while maintaining competitive pricing."
+    end_year: 2010
+    description: "The third-generation Accent (MC) debuted at the 2005 New York International Auto Show with a new exterior, larger interior (2500mm wheelbase), and CVVT engines. Available as sedan and three-door hatchback in most markets, it featured 1.4L Alpha II and 1.6L Alpha II petrol engines plus a 1.5L U diesel with CRDi and VGT. In the US, only the sedan was initially offered; the hatchback arrived in 2006 as a 2007 model. This generation was replaced by the Hyundai i30 in Europe."
 
-  - name: "Fourth Generation"
+  - name: "Fourth Generation (RB)"
     start_year: 2011
-    end_year: 2017
-    description: "The fourth-generation Accent adopted Hyundai's 'Fluidic Sculpture' design language, featuring more sophisticated styling with flowing lines and a distinctive hexagonal grille. In many markets, it was available in both sedan and five-door hatchback configurations. Powered primarily by improved 1.4L and 1.6L four-cylinder engines with Direct Injection in some variants, it offered a good balance of performance and efficiency. The interior saw substantial improvements in design, materials, and technology, offering features previously found only in larger vehicles. Safety technology advanced with six standard airbags, available stability control, and improved crash structures. This generation significantly elevated the Accent's position, offering near-compact levels of space and refinement in a subcompact package."
+    end_year: 2019
+    description: "The fourth-generation Accent (RB) premiered at the 2010 Beijing Auto Show as the Verna, built on the Hyundai-Kia PB platform with a 2570mm wheelbase. Offered in sedan and five-door hatchback, it featured Gamma and Kappa petrol engines (1.4L-1.6L) plus 1.4L and 1.6L U diesel engines with various transmissions including manual, automatic, DCT and CVT. Known as Hyundai Solaris in Russia (facelifted 2014) and i25 Accent in Colombia. Production continued in Egypt until at least 2025. The sedan was discontinued in Korea in late 2018, hatchback in August 2018."
 
-  - name: "Fifth Generation"
+  - name: "Fifth Generation (HC)"
     start_year: 2017
-    end_year: 2023
-    description: "The fifth-generation Accent featured more restrained styling following Hyundai's evolved design language, with a focus on elegant simplicity over the dramatic lines of its predecessor. In many markets, it was only offered as a sedan, with the hatchback role taken by the Venue crossover or i20 depending on the region. Powered by efficient 1.6L four-cylinder engines, in some markets featuring the Gamma II MPI or GDI technology, it emphasized fuel economy while maintaining adequate performance. The interior offered improved materials, design, and technology, including an available 7-inch touchscreen with Apple CarPlay and Android Auto compatibility. Safety features expanded to include available forward collision warning, automatic emergency braking, and other driver assistance technologies previously uncommon in the subcompact segment. This generation maintained the Accent's value proposition while adding technology and refinement, though it was discontinued in North America after 2023 as Hyundai, like many manufacturers, shifted focus away from sedans toward crossovers in that market."
+    end_year: 2022
+    description: "The fifth-generation Accent (HC) launched in China as Verna in late 2016, arriving in Russia (as Solaris), India and North America in 2017. Built on the Hyundai-Kia K2 platform (2580mm wheelbase), it is offered as sedan and hatchback but not sold in South Korea. Engine options include 1.0L Kappa II turbo, 1.4L and 1.6L Gamma/Kappa petrol, plus 1.4L-1.6L U diesel engines with manual, automatic, DCT or CVT transmissions. The 2020 facelift introduced Smartstream engines and new technology features. Discontinued in North America after 2022, replaced by Hyundai Venue."
+
+  - name: "Sixth Generation (BN7)"
+    start_year: 2023
+    end_year: null
+    description: "The sixth-generation Accent (BN7), marketed as Verna in India and some markets, debuted on 13 February 2023. Featuring Hyundai's 'Sensuous Sportiness' design language inspired by the Elantra, it is offered as a four-door sedan only. Two engine options: 1.5L Smartstream G1.5 MPi (115 PS) and 1.5L Smartstream G1.5 T-GDi (160 PS), paired with 6-speed manual, 7-speed DCT or CVT. Launched in India March 2023, Vietnam May 2024, UAE early 2025 and Philippines October 2025. Received Global NCAP 5-star rating for adult and child occupants."
